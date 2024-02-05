@@ -7,6 +7,5 @@ h1 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 img[src="IMG_2334.PNG"] {
-  object-fit: contain;
-  width: 10px !important;
+  width: 200px;
   }
