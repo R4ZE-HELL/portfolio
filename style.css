@@ -1,11 +1,13 @@
+
 body {
 /*color: #1888cd;*/
 color: black;
 text-align: center;
 margin-top: 200px;
+font-family: 'Pompiere';
 }
 h1 {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Londrina Outline';
 }
 img[src="IMG_2334.PNG"] {
   width: 200px;
