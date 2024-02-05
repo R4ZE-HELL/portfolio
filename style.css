@@ -6,6 +6,7 @@ margin-top: 200px;
 h1 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 img[src="IMG_2334.PNG"] {
-  width: 100px !important;
+  object-fit: contain;
+  width: 10px !important;
 }
 }
